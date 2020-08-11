@@ -1,0 +1,4 @@
+
+enum BudgetType {
+  INFLOW, OUTFLOW,
+}
